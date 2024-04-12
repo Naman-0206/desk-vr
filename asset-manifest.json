@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DeskVR/static/css/main.36b8b6d4.css",
+    "main.js": "/DeskVR/static/js/main.c6cbf8fc.js",
+    "index.html": "/DeskVR/index.html",
+    "main.36b8b6d4.css.map": "/DeskVR/static/css/main.36b8b6d4.css.map",
+    "main.c6cbf8fc.js.map": "/DeskVR/static/js/main.c6cbf8fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36b8b6d4.css",
+    "static/js/main.c6cbf8fc.js"
+  ]
+}
